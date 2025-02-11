@@ -130,10 +130,10 @@ Pour utiliser Android TNT, suivez ces étapes :
 4. **Lancement** : Une fois l'installation terminée, lancez l'application Android TNT depuis votre écran d'accueil.
 5. **Configuration** : Sélectionnez le nombre d'écrans souhaité, naviguez entre les catégories de chaînes, et activez le mode PiP pour une expérience de visionnage optimale.
 
-![Sécurité](Images/Sécurité.png)
+![Sécurité](https://raw.githubusercontent.com/SergeBertrand/Android-TNT/main/Images/Sécurité.png)
 *Capture d'écran montrant les résultats de sécurité de l'application Android TNT.*
 
-![Interface](Images/Interface.png)
+![Interface](https://raw.githubusercontent.com/SergeBertrand/Android-TNT/main/Images/Interface.png)
 *Capture d'écran de l'interface de l'application Android TNT.*
 
 Profitez de vos chaînes TNT préférées directement sur votre appareil Android !
